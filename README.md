@@ -10,7 +10,7 @@ Clone repo
 ```
 https://github.com/KaiSamaryytel/algoritmid.git
 ```
-Go to folder in terminal and start wirh a command
+Go to folder in terminal and start with a command:
 ```
 node longestword.js
 ```
