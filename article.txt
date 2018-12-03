@@ -1,0 +1,12 @@
+Kasulikke rakendusi, mis töö tegemist aitavad hõlbustada, pole kunagi liiga palju. Computerworld on reastanud valiku klassikalisi programme, mis ei võta arvutis palju ruumi ning mille kasutamine on tasuta.
+ CCleaner
+CCleaneriga saad üle vaadata, millised failid su arvutis ruumi võtavad. See kuvab vahemällu salvestatud ning ajutisi faile. Kui kettaruumiga on kitsas käes, siis selle rakenduse abil saab ebavajalikest failidest kerge vaevaga lahti.
+ Everything
+Selle rakenduse abil saad teha kiirelt failide otsinguid. Märksõna alusel reastab Everything kõik otsingusõnaga seotud vasted.
+ Recuva
+Mõnikord juhtub, et kustud kogemata faili, mis tegelikult poleks prügikasti pidanud minema. Windows võimaldab neid sealt küll tagasi arvutisse tuua, kuid lõpliku kustutamise järel on need failid igaveseks kadunud.
+ Siin tulebki appi Recuva nimeline rakendus, mis võimaldab juba ka prügikastist kustutatud failie tagasi saada. See otsib failid kõvakettalt üles neist kohtadest, kus need asusid enne prügikasti saatmist. Vastavalt värvile näitab rakendus, kui suure tõenäosusega konkreetset faili on võimalik taastada.
+ Speccy
+Tahad teada, milline riistvara su arvutil täpselt on? Speccy võimaldab sellest ülevaade saada mugavalt ühest kohast. Andmed on reastatud erinevatesse kategooriatesse ning neid saab vajadusel salvestada ka eraldi tekstifailina.
+ Wifi password revealer
+Kui soovid ülevaadet kõigist wifi võrgu paroolidest, kuhu oled olnud sisse logitud, siis see väike rakendus aitab seda teha. Tegu ei ole nuhkvaraga, mis laseb võõraste võrkude paroole näha. Selle kaudu näeb vaid neid paroole, mida sa minevikus oled sisestanud.
